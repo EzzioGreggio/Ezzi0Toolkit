@@ -1,1 +1,1 @@
-# EzzioToolkit V1.0
+# EzzioToolkit
