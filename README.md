@@ -11,9 +11,9 @@ Latest Version released: 1.1
 # Version's list:
   
   -1.1: 
-      [1] Main code updated
-      [2] First tool (MultiThred TCP Port Scanner)
+      -[1] Main code updated
+      -[2] First tool (MultiThred TCP Port Scanner)
   
   
   -V1.0:
-      [1] Main code
+      -[1] Main code
