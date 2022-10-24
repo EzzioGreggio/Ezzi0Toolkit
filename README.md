@@ -22,5 +22,5 @@ Latest Version released: 1.1
 
 
 ### Notes:
-#### Use this toolkit only with permission.
+#### Use the tools contained in this toolkit only with permission.
 #### The scripts are made to be used in linux (I used mint 21), they may not work on windows.
