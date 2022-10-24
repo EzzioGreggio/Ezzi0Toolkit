@@ -1,7 +1,7 @@
 # EzzioToolkit
-A simple toolkit that contain some tools you can use with your linux terminal.
+### A simple toolkit that contain some tools you can use with your linux terminal.
 
-Latest Version released: 1.1
+#### Latest Version released: 1.1
 
 ## How to install and run the toolkit (You need python >= v3.0):
   1) git clone https://github.com/EzzioGreggio/Ezzi0Toolkit.git
@@ -10,7 +10,7 @@ Latest Version released: 1.1
   4) sudo python3 toolkit.py
 
 
-## Version's history:
+# Version's history:
   
   ## v1.1: 
       1) Main code updated
