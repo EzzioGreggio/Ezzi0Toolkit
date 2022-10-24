@@ -9,7 +9,7 @@ Latest Version released: 1.1
   3) python3 setup.py
 
 
-## Version's list:
+## Version's history:
   
   ## v1.1: 
       1) Main code updated
