@@ -19,3 +19,8 @@ Latest Version released: 1.1
   
   ## v1.0:
       1) Main code
+
+
+Notes:
+Dont use the tools when you dont have permission to.
+The scripts is made to be used with python 3.10 (I used this version) and most important to be usen in linux (I used mint 21)
