@@ -21,6 +21,6 @@ Latest Version released: 1.1
       1) Main code
 
 
-Notes:
-### Dont use the tools when you dont have permission to.
-###### The scripts is made to be used with python 3.10 (I used this version) and in linux (I used mint 21)
+### Notes:
+#### Use this toolkit only with permission.
+#### The scripts are made to be used in linux (I used mint 21), they would not work on windows.
