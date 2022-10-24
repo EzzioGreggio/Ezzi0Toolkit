@@ -3,10 +3,11 @@ A simple toolkit that contain some tools you can use with your linux terminal.
 
 Latest Version released: 1.1
 
-## How to guide:
+## How to run the toolkit:
   1) git clone https://github.com/EzzioGreggio/Ezzi0Toolkit.git
-  2) cd ###
+  2) cd Ezzi0Toolkit
   3) python3 setup.py
+  4) sudo python3 toolkit.py
 
 
 ## Version's history:
