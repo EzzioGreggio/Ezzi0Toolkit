@@ -1,5 +1,5 @@
-# EzzioToolkit - !!NOTE: THIS TOOL WILL BE RELEASED WITH THE OFFICIAL 1.2 VERSION!!
-A simple toolkit that contain some tool's you can use with your linux terminal.
+# EzzioToolkit
+A simple toolkit that contain some tools you can use with your linux terminal.
 
 Latest Version released: NONE
 
