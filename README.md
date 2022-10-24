@@ -3,7 +3,7 @@ A simple toolkit that contain some tools you can use with your linux terminal.
 
 Latest Version released: 1.1
 
-## How to run the toolkit:
+## How to install and run the toolkit (You need python >= v3.0):
   1) git clone https://github.com/EzzioGreggio/Ezzi0Toolkit.git
   2) cd Ezzi0Toolkit
   3) python3 setup.py
