@@ -27,7 +27,7 @@ sudo python3 toolkit.py
 * #### Linux
 <br/>
 
-# Version's history:
+### Version's history:
   
 ### v1.1: 
      1) Main code updated
